@@ -176,3 +176,7 @@ data/preprocessed-bigearthnet.pth
 *.brf
 *.fdb_latexmk
 main.synctex.gz
+
+*.pt
+DINO-MM/*
+GeoMoCo/*
